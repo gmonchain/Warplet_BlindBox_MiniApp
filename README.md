@@ -62,6 +62,4 @@ Built on Base, Warplet Blind Box offers:
 
 ## Farcaster Mini App
 
-Experience Warplet Blind Box directly on Farcaster: [Warplet Blind Box Miniapp](https://farcaster.xyz/miniapps/j7DqYWYBcmR2/warplet-blind-box)
-
-Join the community of Warplet collectors and start your mystery box adventure today!
+Experience Warplet Blind Box directly on Farcaster: [https://farcaster.xyz/miniapps/j7DqYWYBcmR2/warplet-blind-box](https://farcaster.xyz/miniapps/j7DqYWYBcmR2/warplet-blind-box)
